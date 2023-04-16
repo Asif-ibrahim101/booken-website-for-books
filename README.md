@@ -13,7 +13,7 @@
 
   Booken is a fully responsive book store website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/booken/"><strong>➥ Live Demo</strong></a>
+  <a href="https://bookens.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
